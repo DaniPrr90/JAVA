@@ -36,7 +36,7 @@ public class CheckGuest {
         if (isInvited) {
             System.out.println("Benvenuto/a " + userName + "! Puoi entrare alla festa");
         } else {
-            System.out.println("Mi dispiace, " + userName + ". Non sei nella lista. Torna a casa cortesemente.");
+            System.out.println("Mi dispiace, " + userName + ". Non sei nella lista.");
         }
 
         // Chiusura dello scanner
