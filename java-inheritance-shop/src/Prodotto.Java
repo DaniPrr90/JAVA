@@ -1,5 +1,5 @@
 
-// Creo una classe generica chiamata Prodotto.
+// Creo una classe "generica" chiamata Prodotto.
 
 public class Prodotto {
     private int codice;
